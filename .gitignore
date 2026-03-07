@@ -1,0 +1,43 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+package-lock.json
+
+# React Native
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+android/.idea/
+
+# Python
+backend/venv/
+backend/__pycache__/
+backend/**/*.pyc
+backend/**/*.pyo
+
+# Environment
+.env
+.env.*
+
+# Model files (optional if huge)
+*.pt
+*.pth
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# IntelliJ / Android Studio
+.idea/
+
+# Logs
+*.log
+
+Lib/
+Scripts/
+pyvenv.cfg
