@@ -1,0 +1,62 @@
+Age,Gender,Height,Weight,BMI,BloodType,ActivityLevel,Activities,HeartRate
+23,Male,173,61,20.4,O+,6,"Take a light walk, Do easy yoga poses, Stretch your arms and legs, Enjoy a casual hobby, Do light gardening",70
+50,Female,150,119,52.9,O-,6,"Engage in a 10-minute HIIT routine, Go for a jog, Do squats and lunges, Play an active game, Practice swimming",85
+42,Male,150,113,50.2,O+,5,"Practice tai chi, Engage in indoor cycling, Do moderate cardio, Watch an educational video, Call a friend to chat",75
+28,Female,160,70,27.3,A+,7,"Go for a walk, Do light jogging, Practice stretching, Try pilates, Do light cycling",65
+36,Male,180,85,26.2,B-,6,"Take a brisk walk, Try strength training, Engage in yoga, Do push-ups, Try swimming",80
+61,Female,155,60,24.9,A-,5,"Practice yoga, Do gentle stretches, Walk at a comfortable pace, Engage in light gardening, Practice mindfulness",60
+45,Male,175,95,31,O+,6,"Walk briskly, Take part in sports, Engage in swimming, Try strength training, Enjoy outdoor activities",85
+33,Female,165,55,20.2,B+,6,"Walk outdoors, Try yoga, Practice deep breathing, Engage in recreational sports, Go cycling",65
+55,Male,178,82,25.9,AB+,7,"Try resistance band exercises, Take a brisk walk, Play a game of tennis, Enjoy stretching, Engage in gardening",80
+30,Female,162,58,22.1,O-,8,"Go for a jog, Try Pilates, Practice strength training, Engage in light cycling, Do a dance workout",70
+60,Male,170,78,26.9,B-,5,"Practice tai chi, Walk at a comfortable pace, Do gentle stretching, Engage in light swimming, Try deep breathing exercises",65
+38,Female,167,75,26.9,A+,7,"Go hiking, Do cardio exercises, Try swimming, Do stretching, Join a Zumba class",75
+27,Male,180,72,22.2,AB-,6,"Engage in weight training, Go for a run, Practice yoga, Do a full-body stretch, Play basketball",80
+62,Female,160,64,25,O+,6,"Do chair yoga, Walk for 30 minutes, Try aquatic aerobics, Stretch, Engage in gardening",60
+48,Male,176,88,28.3,B+,6,"Go for a brisk walk, Try circuit training, Engage in yoga, Take a swim, Ride a bike",85
+40,Female,158,68,27.2,A-,6,"Take part in a dance class, Practice deep breathing, Go for a walk, Do light stretching, Engage in bodyweight exercises",65
+25,Male,165,70,25.7,AB+,7,"Join a sports club, Take part in a cycling event, Do push-ups, Take a long walk, Practice Pilates",85
+52,Female,162,72,27.4,O-,7,"Engage in swimming, Do resistance training, Walk for 40 minutes, Try a Zumba class, Try mindful breathing exercises",75
+29,Male,178,80,25.3,A+,7,"Go for a jog, Engage in strength training, Do light stretching, Play a sport, Try swimming",80
+41,Female,162,58,22.1,O+,7,"Try yoga, Go for a walk, Engage in swimming, Practice mindfulness, Join a dance class",65
+39,Male,172,79,26.7,AB-,6,"Take a brisk walk, Engage in strength training, Try swimming, Practice yoga, Take part in cardio exercises",70
+61,Female,159,68,26.8,O+,5,"Do gentle stretching, Try walking for 30 minutes, Practice mindfulness, Do chair exercises, Enjoy light gardening",65
+35,Male,176,85,27.4,A-,6,"Try weightlifting, Engage in swimming, Do push-ups, Take a jog, Try cycling",80
+47,Female,170,75,25.9,B+,7,"Engage in Pilates, Take a dance class, Do light cardio, Stretch, Go for a swim",75
+24,Male,182,74,22.3,A-,7,"Go for a run, Try weight training, Engage in yoga, Swim laps, Try resistance exercises",85
+28,Female,160,70,27.3,A+,7,"Go for a walk, Do light jogging, Practice stretching, Try pilates, Do light cycling",65
+36,Male,180,85,26.2,B-,6,"Take a brisk walk, Try strength training, Engage in yoga, Do push-ups, Try swimming",80
+61,Female,155,60,24.9,A-,5,"Practice yoga, Do gentle stretches, Walk at a comfortable pace, Engage in light gardening, Practice mindfulness",60
+45,Male,175,95,31,O+,6,"Walk briskly, Take part in sports, Engage in swimming, Try strength training, Enjoy outdoor activities",85
+33,Female,165,55,20.2,B+,6,"Walk outdoors, Try yoga, Practice deep breathing, Engage in recreational sports, Go cycling",65
+55,Male,178,82,25.9,AB+,7,"Try resistance band exercises, Take a brisk walk, Play a game of tennis, Enjoy stretching, Engage in gardening",80
+30,Female,162,58,22.1,O-,8,"Go for a jog, Try Pilates, Practice strength training, Engage in light cycling, Do a dance workout",70
+60,Male,170,78,26.9,B-,5,"Practice tai chi, Walk at a comfortable pace, Do gentle stretching, Engage in light swimming, Try deep breathing exercises",65
+38,Female,167,75,26.9,A+,7,"Go hiking, Do cardio exercises, Try swimming, Do stretching, Join a Zumba class",75
+27,Male,180,72,22.2,AB-,6,"Engage in weight training, Go for a run, Practice yoga, Do a full-body stretch, Play basketball",80
+62,Female,160,64,25,O+,6,"Do chair yoga, Walk for 30 minutes, Try aquatic aerobics, Stretch, Engage in gardening",60
+48,Male,176,88,28.3,B+,6,"Go for a brisk walk, Try circuit training, Engage in yoga, Take a swim, Ride a bike",85
+40,Female,158,68,27.2,A-,6,"Take part in a dance class, Practice deep breathing, Go for a walk, Do light stretching, Engage in bodyweight exercises",65
+25,Male,165,70,25.7,AB+,7,"Join a sports club, Take part in a cycling event, Do push-ups, Take a long walk, Practice Pilates",85
+52,Female,162,72,27.4,O-,7,"Engage in swimming, Do resistance training, Walk for 40 minutes, Try a Zumba class, Try mindful breathing exercises",75
+29,Male,178,80,25.3,A+,7,"Go for a jog, Engage in strength training, Do light stretching, Play a sport, Try swimming",80
+61,Female,155,60,24.9,A-,5,"Practice yoga, Do gentle stretches, Walk at a comfortable pace, Engage in light gardening, Practice mindfulness",60
+45,Male,175,95,31,O+,6,"Walk briskly, Take part in sports, Engage in swimming, Try strength training, Enjoy outdoor activities",85
+33,Female,165,55,20.2,B+,6,"Walk outdoors, Try yoga, Practice deep breathing, Engage in recreational sports, Go cycling",65
+55,Male,178,82,25.9,AB+,7,"Try resistance band exercises, Take a brisk walk, Play a game of tennis, Enjoy stretching, Engage in gardening",80
+30,Female,162,58,22.1,O-,8,"Go for a jog, Try Pilates, Practice strength training, Engage in light cycling, Do a dance workout",70
+60,Male,170,78,26.9,B-,5,"Practice tai chi, Walk at a comfortable pace, Do gentle stretching, Engage in light swimming, Try deep breathing exercises",65
+38,Female,167,75,26.9,A+,7,"Go hiking, Do cardio exercises, Try swimming, Do stretching, Join a Zumba class",75
+27,Male,180,72,22.2,AB-,6,"Engage in weight training, Go for a run, Practice yoga, Do a full-body stretch, Play basketball",80
+62,Female,160,64,25,O+,6,"Do chair yoga, Walk for 30 minutes, Try aquatic aerobics, Stretch, Engage in gardening",60
+27,Male,180,72,22.2,AB-,6,"Engage in weight training, Go for a run, Practice yoga, Do a full-body stretch, Play basketball",80
+62,Female,160,64,25,O+,6,"Do chair yoga, Walk for 30 minutes, Try aquatic aerobics, Stretch, Engage in gardening",60
+48,Male,176,88,28.3,B+,6,"Go for a brisk walk, Try circuit training, Engage in yoga, Take a swim, Ride a bike",85
+40,Female,158,68,27.2,A-,6,"Take part in a dance class, Practice deep breathing, Go for a walk, Do light stretching, Engage in bodyweight exercises",65
+25,Male,165,70,25.7,AB+,7,"Join a sports club, Take part in a cycling event, Do push-ups, Take a long walk, Practice Pilates",85
+52,Female,162,72,27.4,O-,7,"Engage in swimming, Do resistance training, Walk for 40 minutes, Try a Zumba class, Try mindful breathing exercises",75
+29,Male,178,80,25.3,A+,7,"Go for a jog, Engage in strength training, Do light stretching, Play a sport, Try swimming",80
+61,Female,155,60,24.9,A-,5,"Practice yoga, Do gentle stretches, Walk at a comfortable pace, Engage in light gardening, Practice mindfulness",60
+45,Male,175,95,31,O+,6,"Walk briskly, Take part in sports, Engage in swimming, Try strength training, Enjoy outdoor activities",85
+33,Female,165,55,20.2,B+,6,"Walk outdoors, Try yoga, Practice deep breathing, Engage in recreational sports, Go cycling",65
+55,Male,178,82,25.9,AB+,7,"Try resistance band exercises, Take a brisk walk, Play a game of tennis, Enjoy stretching, Engage in gardening",80

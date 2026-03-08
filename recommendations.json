@@ -1,0 +1,22 @@
+{
+  "no_stress": [
+    {"type": "text", "content": "Keep up your calm and balanced state."},
+    {"type": "audio", "content": "audio/no_stress.mp3"},
+    {"type": "video", "content": "video/no_stress.mp4"}
+  ],
+  "low": [
+    {"type": "text", "content": "Take a short walk to refresh yourself."},
+    {"type": "audio", "content": "audio/low.mp3"},
+    {"type": "video", "content": "video/low.mp4"}
+  ],
+  "moderate": [
+    {"type": "text", "content": "Try deep breathing for 2-3 minutes."},
+    {"type": "audio", "content": "audio/moderate.mp3"},
+    {"type": "video", "content": "video/moderate.mp4"}
+  ],
+  "high": [
+    {"type": "text", "content": "Consider taking a break or meditation."},
+    {"type": "audio", "content": "audio/high.mp3"},
+    {"type": "video", "content": "video/high.mp4"}
+  ]
+}
