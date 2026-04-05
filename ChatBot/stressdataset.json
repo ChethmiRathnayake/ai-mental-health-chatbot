@@ -1,0 +1,119 @@
+{
+  "intents": [
+    {
+      "tag": "Intro",
+      "patterns": [
+        "hi", "how are you", "is anyone there", "hello", "whats up", "hey", "yo",
+        "listen", "please help me", "i am learner from", "i belong to", "aiml batch",
+        "aifl batch", "i am from", "my pm is", "blended", "online", "i am from",
+        "hey ya", "talking to you for first time"
+      ],
+      "responses": [
+        "Hello! How can I help you today?"
+      ]
+    },
+
+    {
+      "tag": "Exit",
+      "patterns": [
+        "thank you", "thanks", "cya", "see you", "later", "see you later",
+        "goodbye", "i am leaving", "have a good day", "you helped me",
+        "thanks a lot", "thanks a ton", "you are the best", "great help",
+        "too good", "you are a good learning buddy"
+      ],
+      "responses": [
+        "I hope I was able to assist you. Good bye!"
+      ]
+    },
+
+    {
+      "tag": "StressManagement",
+      "patterns": [
+        "I'm feeling stressed", "I'm overwhelmed", "I don't know how to deal with stress",
+        "I'm anxious", "I'm feeling down", "I'm having a tough time",
+        "What should I do when I'm stressed?", "How can I reduce stress?",
+        "I'm feeling under pressure", "I'm stressed out"
+      ],
+      "responses": [
+        "It's okay to feel stressed sometimes. Take a few deep breaths and relax. ",
+        "Stress management is key. Let's go through some simple exercises together!"
+      ]
+    },
+
+    {
+      "tag": "StressReliefTips",
+      "patterns": [
+        "Give me some stress relief tips", "How can I relieve stress?",
+        "What are some ways to feel better?", "What can I do to relax?",
+        "Help me with some stress-relief activities", "Give me some relaxation exercises"
+      ],
+      "responses": [
+        "Here are some tips for relieving stress: 1) Practice deep breathing 2) Try meditation or yoga 3) Take a walk outside 4) Listen to music 5) Talk to someone you trust. ",
+        "Here are a few ways to feel more relaxed: 1) Exercise 2) Journaling 3) Watching something funny. "
+      ]
+    },
+
+    {
+      "tag": "Recommendation",
+      "patterns": [
+        "What should I do to feel better?", "Can you recommend a stress-relief activity?",
+        "What can I do to improve my mood?", "What are some activities to relax?",
+        "Give me a suggestion to relieve stress"
+      ],
+      "responses": [
+        "Try mindfulness, calming music, journaling, or reading. "
+      ]
+    },
+
+    {
+      "tag": "Motivation",
+      "patterns": [
+        "I need some motivation", "I feel demotivated", "I'm lacking motivation",
+        "Can you motivate me?", "Give me some words of encouragement"
+      ],
+      "responses": [
+        "Believe in yourself. Small steps lead to big changes. You've got this!",
+        "Remember, progress is progress no matter how slow. You are capable of great things!"
+      ]
+    },
+
+    {
+      "tag": "WorkLifeBalance",
+      "patterns": [
+        "How can I balance work and life?", "I feel like I'm always working",
+        "How do I maintain work-life balance?", "Help me manage my time",
+        "I'm struggling with work-life balance"
+      ],
+      "responses": [
+        "Set boundaries, prioritize your time, and schedule breaks. Want tips?",
+        "Try making a daily routine. Need help creating one?"
+      ]
+    },
+
+    {
+      "tag": "Gratitude",
+      "patterns": [
+        "I'm feeling ungrateful", "How can I be more thankful?",
+        "Give me some gratitude exercises", "How do I practice gratitude?",
+        "Help me feel more thankful"
+      ],
+      "responses": [
+        "Start by listing three things you're grateful for today. It shifts your mindset!",
+        "Write down three things you appreciate. It helps bring calmness."
+      ]
+    },
+
+    {
+      "tag": "Sleep",
+      "patterns": [
+        "I'm not getting enough sleep", "How can I improve my sleep?",
+        "I'm having trouble sleeping", "What should I do for better sleep?",
+        "Can you help me sleep better?"
+      ],
+      "responses": [
+        "Try a consistent bedtime routine and avoid screens before bed.",
+        "Keep a regular sleep schedule and create a calm environment."
+      ]
+    }
+  ]
+}
