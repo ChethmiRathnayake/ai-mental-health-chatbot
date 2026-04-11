@@ -1,0 +1,5 @@
+student_id,timestamp,text,detected_emotion,confidence
+"123,22:15:56,my",2025-01-01,not,supporting,"me,sadness,0.9732153415679932"
+"123,22:17:05,my",2025-01-01,not,supporting,"me,sadness,0.9732153415679932"
+"123,22:20:54,my",2025-01-01,met,me,"today,joy,0.9963403820991515"
+"123,09:42:57,my",2025-01-01,came to,meet,"me,sadness,0.877738418844011"

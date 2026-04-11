@@ -1,0 +1,43 @@
+student_id,timestamp,text,detected_emotion,confidence
+123,22:15:45,hello,joy,0.7113664746284485
+123,22:15:56,my friend not supporting me,sadness,0.9732153415679932
+123,22:17:05,my friend not supporting me,sadness,0.9732153415679932
+123,22:17:13,i meet my friend,joy,0.9232274293899536
+123,22:20:37,Hi,joy,0.6696686625480652
+123,22:20:44,i feel not happy,sadness,0.9601062917709352
+123,22:20:54,my friend met me today,joy,0.9963403820991515
+789,22:26:05,i feel not good,sadness,0.6713852882385254
+123,22:37:49,i come home,joy,1.0
+123,09:41:13,i feel not well,sadness,1.0
+123,09:42:57,my friend came to meet me,sadness,0.877738418844011
+123,09:44:05,my friend came,sadness,0.5487961351871491
+12,08:56:00,hi,joy,0.9022196531295776
+225,09:09:38,i feel sad,sadness,0.9940834641456604
+225,09:09:49,asd,joy,0.5311324596405029
+225,11:42:03,i feed happy,joy,1.0
+1,11:52:15,i am sad,sadness,0.994065284729004
+1,11:52:28,i got a gift,joy,0.996626615524292
+5,11:56:57,i lost my phone,sadness,0.9755446314811708
+5,11:57:16,i lost my purse,sadness,1.0
+8,12:14:19,i lost my phone,sadness,0.9755446314811708
+8,12:15:08,i got a gift,joy,0.996626615524292
+123,18:10:03,I got a gift,joy,1.0
+123,18:10:14,I lost my purse,sadness,1.0
+123,18:10:28,I am lazy,sadness,1.0
+123,18:10:57,hi,joy,0.9450766767774308
+123,21:06:39,hi,joy,0.9488862005869548
+123,14:37:30,hi,joy,0.952219533920288
+123,14:37:47,I lost my bag,sadness,1.0
+123,14:38:08,I am not like him,neutral,0.9865554571151732
+123,14:38:18,I am fine,neutral,1.0
+123,14:38:28,I am not fine,neutral,1.0
+123,14:38:40,I got a gift,joy,1.0
+123,14:38:54,I am unhappy,sadness,1.0
+123,10:51:10,hi,joy,0.9456977947898532
+123,10:51:21,I feel not well,sadness,1.0
+123,16:42:21,I got a gift,joy,1.0
+999,09:14:31,I am so happy today,joy,0.997087061405182
+123,09:16:22,hi,joy,0.9483732012602
+123,09:16:25,ok,joy,0.6984223652769018
+123,09:16:31,not ok,neutral,1.0
+123,09:16:44,good,joy,1.0
