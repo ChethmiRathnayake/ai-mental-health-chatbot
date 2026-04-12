@@ -12,7 +12,11 @@ from .ml.feature_engineering import typing_features, text_features, build_x10
 from .ml.inference import get_baseline_mean10, compute_baseline_delta, update_baseline, predict_if_ready
 from .llm_client import llm_chat, LLMError, simple_fallback_reply
 
+from fastapi.middleware.wsgi import WSGIMiddleware
+from Api import app as flask_app
+
 app = FastAPI(title="Cognitive Load + Chat Backend")
+app.mount("/AITMS", WSGIMiddleware(flask_app))
 
 Base.metadata.create_all(bind=engine)
 
